@@ -1,6 +1,8 @@
 Values of the Zcash Foundation
 ========
 
+DISCLAIMER: This document was archived in January, 2019. Its new home is [on GitHub here](https://github.com/ZcashFoundation/zfnd/blob/master/about/values.md), which publishes to [our website](https://www.zfnd.org/about/#values).
+
 This file defines our values. 
 
 - *Transparency.*
